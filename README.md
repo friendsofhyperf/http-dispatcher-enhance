@@ -67,6 +67,7 @@ class FooMiddleware implements MiddlewareInterface
 - Set middleware parameters in route definition
 
 ```php
+<?php
 // config/routes.php
 use App\Middleware\FooMiddleware;
 use Hyperf\HttpServer\Router\Router;
