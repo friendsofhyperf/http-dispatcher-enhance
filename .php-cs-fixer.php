@@ -5,7 +5,7 @@ declare(strict_types=1);
  * This file is part of friendsofhyperf/http-dispatcher-enhance.
  *
  * @link     https://github.com/friendsofhyperf/http-dispatcher-enhance
- * @document https://github.com/friendsofhyperf/http-dispatcher-enhance/blob/1./README.md
+ * @document https://github.com/friendsofhyperf/http-dispatcher-enhance/blob/1.x/README.md
  * @contact  huangdijia@gmail.com
  */
 $header = <<<'EOF'
