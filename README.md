@@ -74,3 +74,5 @@ use Hyperf\HttpServer\Router\Router;
 Router::get('/', [\App\Controller\IndexController::class, 'index'], ['middleware' => [FooMiddleware::class, 1, 2]]);
 Router::get('/', [\App\Controller\IndexController::class, 'index1'], ['middleware' => [FooMiddleware::class, 3, 4]]);
 ```
+
+> Not support `@middleware` and `@middlewares` annotation yet.
