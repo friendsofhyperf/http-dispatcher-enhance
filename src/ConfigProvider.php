@@ -8,7 +8,7 @@ declare(strict_types=1);
  * @document https://github.com/friendsofhyperf/http-dispatcher-enhance/blob/1.x/README.md
  * @contact  huangdijia@gmail.com
  */
-namespace FriendsOfHyperf\HttpMiddlewareEnhance;
+namespace FriendsOfHyperf\HttpDispatcherEnhance;
 
 class ConfigProvider
 {
