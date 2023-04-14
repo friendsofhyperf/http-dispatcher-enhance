@@ -1,11 +1,11 @@
-# Access Log
+# Http Dispatcher Enhance
 
 [![Latest Test](https://github.com/friendsofhyperf/http-dispatcher-enhance/workflows/tests/badge.svg)](https://github.com/friendsofhyperf/http-dispatcher-enhance/actions)
 [![Latest Stable Version](https://poser.pugx.org/friendsofhyperf/http-dispatcher-enhance/version.png)](https://packagist.org/packages/friendsofhyperf/http-dispatcher-enhance)
 [![Total Downloads](https://poser.pugx.org/friendsofhyperf/http-dispatcher-enhance/d/total.png)](https://packagist.org/packages/friendsofhyperf/http-dispatcher-enhance)
 [![GitHub license](https://img.shields.io/github/license/friendsofhyperf/http-dispatcher-enhance)](https://github.com/friendsofhyperf/http-dispatcher-enhance)
 
-Access log component for hyperf.
+Http Dispatcher Enhance component for Hyperf.
 
 ## Installation
 
